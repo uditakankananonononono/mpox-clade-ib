@@ -1,0 +1,1613 @@
+[
+ {
+  "gene": "OPG001",
+  "locus_tag": "NBT03_gp001",
+  "product": "Chemokine binding protein",
+  "start": 834,
+  "end": 1575,
+  "strand": -1,
+  "len_aa": 247
+ },
+ {
+  "gene": "OPG002",
+  "locus_tag": "NBT03_gp002",
+  "product": "Crm-B secreted TNF-alpha-receptor-like protein",
+  "start": 1701,
+  "end": 2751,
+  "strand": -1,
+  "len_aa": 350
+ },
+ {
+  "gene": "OPG003",
+  "locus_tag": "NBT03_gp003",
+  "product": "Ankyrin repeat protein (25)",
+  "start": 2840,
+  "end": 4607,
+  "strand": -1,
+  "len_aa": 589
+ },
+ {
+  "gene": "OPG015",
+  "locus_tag": "NBT03_gp004",
+  "product": "Ankyrin repeat protein (39)",
+  "start": 4842,
+  "end": 6156,
+  "strand": -1,
+  "len_aa": 438
+ },
+ {
+  "gene": "OPG019",
+  "locus_tag": "NBT03_gp005",
+  "product": "EGF-like domain protein",
+  "start": 7579,
+  "end": 8008,
+  "strand": 1,
+  "len_aa": 143
+ },
+ {
+  "gene": "OPG021",
+  "locus_tag": "NBT03_gp006",
+  "product": "Zinc finger-like protein (2)",
+  "start": 9586,
+  "end": 10315,
+  "strand": 1,
+  "len_aa": 243
+ },
+ {
+  "gene": "OPG022",
+  "locus_tag": "NBT03_gp007",
+  "product": "Interleukin-18-binding protein",
+  "start": 10477,
+  "end": 10858,
+  "strand": -1,
+  "len_aa": 127
+ },
+ {
+  "gene": "OPG023",
+  "locus_tag": "NBT03_gp008",
+  "product": "Ankyrin repeat protein (2)",
+  "start": 10917,
+  "end": 12900,
+  "strand": -1,
+  "len_aa": 661
+ },
+ {
+  "gene": "OPG024",
+  "locus_tag": "NBT03_gp009",
+  "product": "retroviral pseudoprotease-like protein",
+  "start": 13033,
+  "end": 13228,
+  "strand": -1,
+  "len_aa": 65
+ },
+ {
+  "gene": "OPG025",
+  "locus_tag": "NBT03_gp010",
+  "product": "Ankyrin repeat protein (14)",
+  "start": 13374,
+  "end": 15267,
+  "strand": -1,
+  "len_aa": 631
+ },
+ {
+  "gene": "OPG027",
+  "locus_tag": "NBT03_gp011",
+  "product": "Host range protein",
+  "start": 15924,
+  "end": 16377,
+  "strand": -1,
+  "len_aa": 151
+ },
+ {
+  "gene": "OPG029",
+  "locus_tag": "NBT03_gp012",
+  "product": "Bcl-2-like protein",
+  "start": 16601,
+  "end": 17069,
+  "strand": -1,
+  "len_aa": 156
+ },
+ {
+  "gene": "OPG030",
+  "locus_tag": "NBT03_gp013",
+  "product": "Kelch-like protein (1)",
+  "start": 17212,
+  "end": 17833,
+  "strand": -1,
+  "len_aa": 207
+ },
+ {
+  "gene": "OPG031",
+  "locus_tag": "NBT03_gp014",
+  "product": "C4L/C10L-like family protein",
+  "start": 17877,
+  "end": 18828,
+  "strand": -1,
+  "len_aa": 317
+ },
+ {
+  "gene": "OPG034",
+  "locus_tag": "NBT03_gp015",
+  "product": "Bcl-2-like protein",
+  "start": 19360,
+  "end": 20005,
+  "strand": -1,
+  "len_aa": 215
+ },
+ {
+  "gene": "OPG035",
+  "locus_tag": "NBT03_gp016",
+  "product": "Bcl-2-like protein",
+  "start": 20050,
+  "end": 20404,
+  "strand": -1,
+  "len_aa": 118
+ },
+ {
+  "gene": "OPG036",
+  "locus_tag": "NBT03_gp017",
+  "product": "Bcl-2-like protein",
+  "start": 20530,
+  "end": 21064,
+  "strand": -1,
+  "len_aa": 178
+ },
+ {
+  "gene": "OPG037",
+  "locus_tag": "NBT03_gp018",
+  "product": "Ankyrin-like protein (1)",
+  "start": 21104,
+  "end": 22433,
+  "strand": -1,
+  "len_aa": 443
+ },
+ {
+  "gene": "OPG038",
+  "locus_tag": "NBT03_gp019",
+  "product": "NFkB inhibitor",
+  "start": 22496,
+  "end": 23159,
+  "strand": -1,
+  "len_aa": 221
+ },
+ {
+  "gene": "OPG039",
+  "locus_tag": "NBT03_gp020",
+  "product": "Ankyrin-like protein (3)",
+  "start": 23263,
+  "end": 24118,
+  "strand": -1,
+  "len_aa": 285
+ },
+ {
+  "gene": "OPG040",
+  "locus_tag": "NBT03_gp021",
+  "product": "Serpin",
+  "start": 24350,
+  "end": 25478,
+  "strand": -1,
+  "len_aa": 376
+ },
+ {
+  "gene": "OPG042",
+  "locus_tag": "NBT03_gp022",
+  "product": "Phospholipase-D-like protein",
+  "start": 25822,
+  "end": 27097,
+  "strand": -1,
+  "len_aa": 425
+ },
+ {
+  "gene": "OPG043",
+  "locus_tag": "NBT03_gp023",
+  "product": "Putative monoglyceride lipase",
+  "start": 27124,
+  "end": 27955,
+  "strand": -1,
+  "len_aa": 277
+ },
+ {
+  "gene": "OPG044",
+  "locus_tag": "NBT03_gp024",
+  "product": "Bcl-2-like protein",
+  "start": 28090,
+  "end": 28540,
+  "strand": 1,
+  "len_aa": 150
+ },
+ {
+  "gene": "OPG045",
+  "locus_tag": "NBT03_gp025",
+  "product": "Caspase-9 inhibitor",
+  "start": 28602,
+  "end": 29262,
+  "strand": -1,
+  "len_aa": 220
+ },
+ {
+  "gene": "OPG046",
+  "locus_tag": "NBT03_gp026",
+  "product": "dUTPase",
+  "start": 29273,
+  "end": 29729,
+  "strand": -1,
+  "len_aa": 152
+ },
+ {
+  "gene": "OPG047",
+  "locus_tag": "NBT03_gp027",
+  "product": "Kelch-like protein (2)",
+  "start": 29745,
+  "end": 31194,
+  "strand": -1,
+  "len_aa": 483
+ },
+ {
+  "gene": "OPG048",
+  "locus_tag": "NBT03_gp028",
+  "product": "Ribonucleotide reductase small subunit",
+  "start": 31204,
+  "end": 32164,
+  "strand": -1,
+  "len_aa": 320
+ },
+ {
+  "gene": "OPG049",
+  "locus_tag": "NBT03_gp029",
+  "product": "Telomere-binding protein I6 (1)",
+  "start": 32194,
+  "end": 33151,
+  "strand": -1,
+  "len_aa": 319
+ },
+ {
+  "gene": "OPG050",
+  "locus_tag": "NBT03_gp030",
+  "product": "CPXV053 protein",
+  "start": 33180,
+  "end": 33408,
+  "strand": -1,
+  "len_aa": 76
+ },
+ {
+  "gene": "OPG051",
+  "locus_tag": "NBT03_gp031",
+  "product": "CPXV054 protein",
+  "start": 33424,
+  "end": 33649,
+  "strand": -1,
+  "len_aa": 75
+ },
+ {
+  "gene": "OPG052",
+  "locus_tag": "NBT03_gp032",
+  "product": "Cytoplasmic protein",
+  "start": 33800,
+  "end": 33995,
+  "strand": -1,
+  "len_aa": 65
+ },
+ {
+  "gene": "OPG053",
+  "locus_tag": "NBT03_gp033",
+  "product": "IMV membrane protein L1R",
+  "start": 34051,
+  "end": 34690,
+  "strand": -1,
+  "len_aa": 213
+ },
+ {
+  "gene": "OPG054",
+  "locus_tag": "NBT03_gp034",
+  "product": "Serine/threonine-protein kinase",
+  "start": 34676,
+  "end": 35996,
+  "strand": -1,
+  "len_aa": 440
+ },
+ {
+  "gene": "OPG055",
+  "locus_tag": "NBT03_gp035",
+  "product": "Protein F11",
+  "start": 36018,
+  "end": 37083,
+  "strand": -1,
+  "len_aa": 355
+ },
+ {
+  "gene": "OPG056",
+  "locus_tag": "NBT03_gp036",
+  "product": "EEV maturation protein",
+  "start": 37126,
+  "end": 39034,
+  "strand": -1,
+  "len_aa": 636
+ },
+ {
+  "gene": "OPG057",
+  "locus_tag": "NBT03_gp037",
+  "product": "Palmytilated EEV membrane protein",
+  "start": 39076,
+  "end": 40195,
+  "strand": -1,
+  "len_aa": 373
+ },
+ {
+  "gene": "OPG058",
+  "locus_tag": "NBT03_gp038",
+  "product": "Protein F14 (1)",
+  "start": 40212,
+  "end": 40434,
+  "strand": -1,
+  "len_aa": 74
+ },
+ {
+  "gene": "OPG059",
+  "locus_tag": "NBT03_gp039",
+  "product": "Cytochrome C oxidase",
+  "start": 40483,
+  "end": 40633,
+  "strand": -1,
+  "len_aa": 50
+ },
+ {
+  "gene": "OPG060",
+  "locus_tag": "NBT03_gp040",
+  "product": "Protein F15",
+  "start": 40705,
+  "end": 41182,
+  "strand": -1,
+  "len_aa": 159
+ },
+ {
+  "gene": "OPG061",
+  "locus_tag": "NBT03_gp041",
+  "product": "Protein F16 (1)",
+  "start": 41188,
+  "end": 41884,
+  "strand": -1,
+  "len_aa": 232
+ },
+ {
+  "gene": "OPG062",
+  "locus_tag": "NBT03_gp042",
+  "product": "DNA-binding phosphoprotein (1)",
+  "start": 41946,
+  "end": 42252,
+  "strand": 1,
+  "len_aa": 102
+ },
+ {
+  "gene": "OPG063",
+  "locus_tag": "NBT03_gp043",
+  "product": "Poly(A) polymerase catalytic subunit (3)",
+  "start": 42248,
+  "end": 43688,
+  "strand": -1,
+  "len_aa": 480
+ },
+ {
+  "gene": "OPG064",
+  "locus_tag": "NBT03_gp044",
+  "product": "Iev morphogenesis protein",
+  "start": 43684,
+  "end": 45898,
+  "strand": -1,
+  "len_aa": 738
+ },
+ {
+  "gene": "OPG065",
+  "locus_tag": "NBT03_gp045",
+  "product": "Double-stranded RNA binding protein",
+  "start": 46021,
+  "end": 46483,
+  "strand": -1,
+  "len_aa": 154
+ },
+ {
+  "gene": "OPG066",
+  "locus_tag": "NBT03_gp046",
+  "product": "DNA-directed RNA polymerase 30 kDa polypeptide",
+  "start": 46648,
+  "end": 47428,
+  "strand": -1,
+  "len_aa": 260
+ },
+ {
+  "gene": "OPG068",
+  "locus_tag": "NBT03_gp047",
+  "product": "IMV membrane protein E6",
+  "start": 48200,
+  "end": 49904,
+  "strand": 1,
+  "len_aa": 568
+ },
+ {
+  "gene": "OPG069",
+  "locus_tag": "NBT03_gp048",
+  "product": "Myristoylated protein E7",
+  "start": 49985,
+  "end": 50486,
+  "strand": 1,
+  "len_aa": 167
+ },
+ {
+  "gene": "OPG070",
+  "locus_tag": "NBT03_gp049",
+  "product": "Membrane protein E8",
+  "start": 50589,
+  "end": 51411,
+  "strand": 1,
+  "len_aa": 274
+ },
+ {
+  "gene": "OPG071",
+  "locus_tag": "NBT03_gp050",
+  "product": "DNA polymerase (2)",
+  "start": 51417,
+  "end": 54438,
+  "strand": -1,
+  "len_aa": 1007
+ },
+ {
+  "gene": "OPG072",
+  "locus_tag": "NBT03_gp051",
+  "product": "Sulfhydryl oxidase",
+  "start": 54469,
+  "end": 54757,
+  "strand": 1,
+  "len_aa": 96
+ },
+ {
+  "gene": "OPG073",
+  "locus_tag": "NBT03_gp052",
+  "product": "Virion core protein E11",
+  "start": 54751,
+  "end": 55141,
+  "strand": -1,
+  "len_aa": 130
+ },
+ {
+  "gene": "OPG074",
+  "locus_tag": "NBT03_gp053",
+  "product": "Iev morphogenesis protein",
+  "start": 55127,
+  "end": 57125,
+  "strand": -1,
+  "len_aa": 666
+ },
+ {
+  "gene": "OPG075",
+  "locus_tag": "NBT03_gp054",
+  "product": "Glutaredoxin-1",
+  "start": 57171,
+  "end": 57498,
+  "strand": -1,
+  "len_aa": 109
+ },
+ {
+  "gene": "OPG076",
+  "locus_tag": "NBT03_gp055",
+  "product": "MV membrane EFC component",
+  "start": 57522,
+  "end": 57630,
+  "strand": -1,
+  "len_aa": 36
+ },
+ {
+  "gene": "OPG077",
+  "locus_tag": "NBT03_gp056",
+  "product": "Telomere-binding protein I1",
+  "start": 57644,
+  "end": 58583,
+  "strand": -1,
+  "len_aa": 313
+ },
+ {
+  "gene": "OPG078",
+  "locus_tag": "NBT03_gp057",
+  "product": "IMV membrane protein I2",
+  "start": 58589,
+  "end": 58811,
+  "strand": -1,
+  "len_aa": 74
+ },
+ {
+  "gene": "OPG079",
+  "locus_tag": "NBT03_gp058",
+  "product": "DNA-binding phosphoprotein (2)",
+  "start": 58811,
+  "end": 59621,
+  "strand": -1,
+  "len_aa": 270
+ },
+ {
+  "gene": "OPG080",
+  "locus_tag": "NBT03_gp059",
+  "product": "Ribonucleoside-diphosphate reductase (2)",
+  "start": 59702,
+  "end": 62018,
+  "strand": -1,
+  "len_aa": 772
+ },
+ {
+  "gene": "OPG081",
+  "locus_tag": "NBT03_gp060",
+  "product": "IMV membrane protein I5",
+  "start": 62045,
+  "end": 62285,
+  "strand": -1,
+  "len_aa": 80
+ },
+ {
+  "gene": "OPG082",
+  "locus_tag": "NBT03_gp061",
+  "product": "Telomere-binding protein",
+  "start": 62303,
+  "end": 63452,
+  "strand": -1,
+  "len_aa": 383
+ },
+ {
+  "gene": "OPG083",
+  "locus_tag": "NBT03_gp062",
+  "product": "Viral core cysteine proteinase",
+  "start": 63444,
+  "end": 64716,
+  "strand": -1,
+  "len_aa": 424
+ },
+ {
+  "gene": "OPG084",
+  "locus_tag": "NBT03_gp063",
+  "product": "RNA helicase NPH-II (2)",
+  "start": 64721,
+  "end": 66752,
+  "strand": 1,
+  "len_aa": 677
+ },
+ {
+  "gene": "OPG085",
+  "locus_tag": "NBT03_gp064",
+  "product": "Metalloendopeptidase",
+  "start": 66755,
+  "end": 68531,
+  "strand": -1,
+  "len_aa": 592
+ },
+ {
+  "gene": "OPG086",
+  "locus_tag": "NBT03_gp065",
+  "product": "Entry/fusion complex component",
+  "start": 68527,
+  "end": 68863,
+  "strand": -1,
+  "len_aa": 112
+ },
+ {
+  "gene": "OPG087",
+  "locus_tag": "NBT03_gp066",
+  "product": "Late transcription elongation factor",
+  "start": 68856,
+  "end": 69519,
+  "strand": 1,
+  "len_aa": 221
+ },
+ {
+  "gene": "OPG088",
+  "locus_tag": "NBT03_gp067",
+  "product": "Glutaredoxin-2",
+  "start": 69488,
+  "end": 69863,
+  "strand": -1,
+  "len_aa": 125
+ },
+ {
+  "gene": "OPG089",
+  "locus_tag": "NBT03_gp068",
+  "product": "FEN1-like nuclease",
+  "start": 69865,
+  "end": 71170,
+  "strand": 1,
+  "len_aa": 435
+ },
+ {
+  "gene": "OPG090",
+  "locus_tag": "NBT03_gp069",
+  "product": "DNA-directed RNA polymerase 7 kDa subunit",
+  "start": 71178,
+  "end": 71370,
+  "strand": 1,
+  "len_aa": 64
+ },
+ {
+  "gene": "OPG091",
+  "locus_tag": "NBT03_gp070",
+  "product": "Nlpc/p60 superfamily protein",
+  "start": 71369,
+  "end": 71867,
+  "strand": 1,
+  "len_aa": 166
+ },
+ {
+  "gene": "OPG092",
+  "locus_tag": "NBT03_gp071",
+  "product": "Assembly protein G7",
+  "start": 71831,
+  "end": 72947,
+  "strand": -1,
+  "len_aa": 372
+ },
+ {
+  "gene": "OPG093",
+  "locus_tag": "NBT03_gp072",
+  "product": "Late transcription factor VLTF-1",
+  "start": 72977,
+  "end": 73760,
+  "strand": 1,
+  "len_aa": 261
+ },
+ {
+  "gene": "OPG094",
+  "locus_tag": "NBT03_gp073",
+  "product": "Myristylated protein",
+  "start": 73779,
+  "end": 74802,
+  "strand": 1,
+  "len_aa": 341
+ },
+ {
+  "gene": "OPG095",
+  "locus_tag": "NBT03_gp074",
+  "product": "IMV membrane protein L1R",
+  "start": 74802,
+  "end": 75555,
+  "strand": 1,
+  "len_aa": 251
+ },
+ {
+  "gene": "OPG096",
+  "locus_tag": "NBT03_gp075",
+  "product": "Crescent membrane and immature virion formation protein",
+  "start": 75586,
+  "end": 75865,
+  "strand": 1,
+  "len_aa": 93
+ },
+ {
+  "gene": "OPG097",
+  "locus_tag": "NBT03_gp076",
+  "product": "Internal virion L3/FP4 protein",
+  "start": 75840,
+  "end": 76875,
+  "strand": -1,
+  "len_aa": 345
+ },
+ {
+  "gene": "OPG098",
+  "locus_tag": "NBT03_gp077",
+  "product": "Nucleic acid binding protein VP8/L4R",
+  "start": 76899,
+  "end": 77655,
+  "strand": 1,
+  "len_aa": 252
+ },
+ {
+  "gene": "OPG099",
+  "locus_tag": "NBT03_gp078",
+  "product": "Membrane protein CL5",
+  "start": 77664,
+  "end": 78051,
+  "strand": 1,
+  "len_aa": 129
+ },
+ {
+  "gene": "OPG100",
+  "locus_tag": "NBT03_gp079",
+  "product": "IMV membrane protein J1",
+  "start": 78007,
+  "end": 78466,
+  "strand": 1,
+  "len_aa": 153
+ },
+ {
+  "gene": "OPG101",
+  "locus_tag": "NBT03_gp080",
+  "product": "Thymidine kinase",
+  "start": 78485,
+  "end": 79019,
+  "strand": 1,
+  "len_aa": 178
+ },
+ {
+  "gene": "OPG102",
+  "locus_tag": "NBT03_gp081",
+  "product": "Cap-specific mRNA",
+  "start": 79084,
+  "end": 80086,
+  "strand": 1,
+  "len_aa": 334
+ },
+ {
+  "gene": "OPG103",
+  "locus_tag": "NBT03_gp082",
+  "product": "DNA-directed RNA polymerase subunit",
+  "start": 80000,
+  "end": 80558,
+  "strand": 1,
+  "len_aa": 186
+ },
+ {
+  "gene": "OPG104",
+  "locus_tag": "NBT03_gp083",
+  "product": "Myristylated protein",
+  "start": 80617,
+  "end": 81019,
+  "strand": -1,
+  "len_aa": 134
+ },
+ {
+  "gene": "OPG105",
+  "locus_tag": "NBT03_gp084",
+  "product": "DNA-dependent RNA polymerase subunit rpo147",
+  "start": 81125,
+  "end": 84986,
+  "strand": 1,
+  "len_aa": 1287
+ },
+ {
+  "gene": "OPG106",
+  "locus_tag": "NBT03_gp085",
+  "product": "Tyr/ser protein phosphatase",
+  "start": 84982,
+  "end": 85498,
+  "strand": -1,
+  "len_aa": 172
+ },
+ {
+  "gene": "OPG107",
+  "locus_tag": "NBT03_gp086",
+  "product": "Entry-fusion complex essential component",
+  "start": 85511,
+  "end": 86081,
+  "strand": 1,
+  "len_aa": 190
+ },
+ {
+  "gene": "OPG108",
+  "locus_tag": "NBT03_gp087",
+  "product": "IMV heparin binding surface protein",
+  "start": 86084,
+  "end": 87059,
+  "strand": -1,
+  "len_aa": 325
+ },
+ {
+  "gene": "OPG109",
+  "locus_tag": "NBT03_gp088",
+  "product": "RNA polymerase-associated transcription-specificity factor RAP94",
+  "start": 87059,
+  "end": 89447,
+  "strand": -1,
+  "len_aa": 796
+ },
+ {
+  "gene": "OPG110",
+  "locus_tag": "NBT03_gp089",
+  "product": "Late transcription factor VLTF-4 (1)",
+  "start": 89631,
+  "end": 90264,
+  "strand": 1,
+  "len_aa": 211
+ },
+ {
+  "gene": "OPG111",
+  "locus_tag": "NBT03_gp090",
+  "product": "DNA topoisomerase type I",
+  "start": 90264,
+  "end": 91209,
+  "strand": 1,
+  "len_aa": 315
+ },
+ {
+  "gene": "OPG112",
+  "locus_tag": "NBT03_gp091",
+  "product": "Late protein H7",
+  "start": 91246,
+  "end": 91687,
+  "strand": 1,
+  "len_aa": 147
+ },
+ {
+  "gene": "OPG113",
+  "locus_tag": "NBT03_gp092",
+  "product": "mRNA capping enzyme large subunit",
+  "start": 91730,
+  "end": 94268,
+  "strand": 1,
+  "len_aa": 846
+ },
+ {
+  "gene": "OPG114",
+  "locus_tag": "NBT03_gp093",
+  "product": "Virion protein D2",
+  "start": 94226,
+  "end": 94667,
+  "strand": -1,
+  "len_aa": 147
+ },
+ {
+  "gene": "OPG115",
+  "locus_tag": "NBT03_gp094",
+  "product": "Virion core protein D3",
+  "start": 94659,
+  "end": 95361,
+  "strand": 1,
+  "len_aa": 234
+ },
+ {
+  "gene": "OPG116",
+  "locus_tag": "NBT03_gp095",
+  "product": "Uracil DNA glycosylase superfamily",
+  "start": 95360,
+  "end": 96017,
+  "strand": 1,
+  "len_aa": 219
+ },
+ {
+  "gene": "OPG117",
+  "locus_tag": "NBT03_gp096",
+  "product": "NTPase (1)",
+  "start": 96048,
+  "end": 98406,
+  "strand": 1,
+  "len_aa": 786
+ },
+ {
+  "gene": "OPG118",
+  "locus_tag": "NBT03_gp097",
+  "product": "Early transcription factor 70 kDa subunit",
+  "start": 98445,
+  "end": 100359,
+  "strand": 1,
+  "len_aa": 638
+ },
+ {
+  "gene": "OPG119",
+  "locus_tag": "NBT03_gp098",
+  "product": "RNA polymerase subunit RPO18",
+  "start": 100385,
+  "end": 100871,
+  "strand": 1,
+  "len_aa": 162
+ },
+ {
+  "gene": "OPG120",
+  "locus_tag": "NBT03_gp099",
+  "product": "Carbonic anhydrase",
+  "start": 100833,
+  "end": 101748,
+  "strand": -1,
+  "len_aa": 305
+ },
+ {
+  "gene": "OPG121",
+  "locus_tag": "NBT03_gp100",
+  "product": "NUDIX domain protein",
+  "start": 101789,
+  "end": 102431,
+  "strand": 1,
+  "len_aa": 214
+ },
+ {
+  "gene": "OPG122",
+  "locus_tag": "NBT03_gp101",
+  "product": "MutT motif protein",
+  "start": 102427,
+  "end": 103174,
+  "strand": 1,
+  "len_aa": 249
+ },
+ {
+  "gene": "OPG123",
+  "locus_tag": "NBT03_gp102",
+  "product": "Nucleoside triphosphatase I",
+  "start": 103174,
+  "end": 105070,
+  "strand": -1,
+  "len_aa": 632
+ },
+ {
+  "gene": "OPG124",
+  "locus_tag": "NBT03_gp103",
+  "product": "mRNA capping enzyme small subunit",
+  "start": 105104,
+  "end": 105968,
+  "strand": -1,
+  "len_aa": 288
+ },
+ {
+  "gene": "OPG125",
+  "locus_tag": "NBT03_gp104",
+  "product": "Rifampicin resistance protein",
+  "start": 105998,
+  "end": 107654,
+  "strand": -1,
+  "len_aa": 552
+ },
+ {
+  "gene": "OPG126",
+  "locus_tag": "NBT03_gp105",
+  "product": "Late transcription factor VLTF-2 (2)",
+  "start": 107677,
+  "end": 108130,
+  "strand": -1,
+  "len_aa": 151
+ },
+ {
+  "gene": "OPG127",
+  "locus_tag": "NBT03_gp106",
+  "product": "Late transcription factor VLTF-3 (1)",
+  "start": 108150,
+  "end": 108825,
+  "strand": -1,
+  "len_aa": 225
+ },
+ {
+  "gene": "OPG128",
+  "locus_tag": "NBT03_gp107",
+  "product": "S-S bond formation pathway protein",
+  "start": 108821,
+  "end": 109055,
+  "strand": -1,
+  "len_aa": 78
+ },
+ {
+  "gene": "OPG129",
+  "locus_tag": "NBT03_gp108",
+  "product": "Virion core protein P4b",
+  "start": 109069,
+  "end": 111004,
+  "strand": -1,
+  "len_aa": 645
+ },
+ {
+  "gene": "OPG130",
+  "locus_tag": "NBT03_gp109",
+  "product": "A5L protein-like",
+  "start": 111056,
+  "end": 111902,
+  "strand": -1,
+  "len_aa": 282
+ },
+ {
+  "gene": "OPG131",
+  "locus_tag": "NBT03_gp110",
+  "product": "DNA-directed RNA polymerase 19 kDa subunit",
+  "start": 111939,
+  "end": 112425,
+  "strand": 1,
+  "len_aa": 162
+ },
+ {
+  "gene": "OPG132",
+  "locus_tag": "NBT03_gp111",
+  "product": "Virion morphogenesis protein",
+  "start": 112421,
+  "end": 113540,
+  "strand": -1,
+  "len_aa": 373
+ },
+ {
+  "gene": "OPG133",
+  "locus_tag": "NBT03_gp112",
+  "product": "Early transcription factor 82 kDa subunit",
+  "start": 113563,
+  "end": 115696,
+  "strand": -1,
+  "len_aa": 711
+ },
+ {
+  "gene": "OPG134",
+  "locus_tag": "NBT03_gp113",
+  "product": "Intermediate transcription factor VITF-3 (1)",
+  "start": 115749,
+  "end": 116628,
+  "strand": 1,
+  "len_aa": 293
+ },
+ {
+  "gene": "OPG135",
+  "locus_tag": "NBT03_gp114",
+  "product": "IMV membrane protein A9",
+  "start": 116608,
+  "end": 116911,
+  "strand": -1,
+  "len_aa": 101
+ },
+ {
+  "gene": "OPG136",
+  "locus_tag": "NBT03_gp115",
+  "product": "Virion core protein P4a",
+  "start": 116911,
+  "end": 119587,
+  "strand": -1,
+  "len_aa": 892
+ },
+ {
+  "gene": "OPG137",
+  "locus_tag": "NBT03_gp116",
+  "product": "Viral membrane formation protein",
+  "start": 119601,
+  "end": 120558,
+  "strand": 1,
+  "len_aa": 319
+ },
+ {
+  "gene": "OPG138",
+  "locus_tag": "NBT03_gp117",
+  "product": "A12 protein",
+  "start": 120559,
+  "end": 121132,
+  "strand": -1,
+  "len_aa": 191
+ },
+ {
+  "gene": "OPG139",
+  "locus_tag": "NBT03_gp118",
+  "product": "IMV membrane protein A13L",
+  "start": 121155,
+  "end": 121368,
+  "strand": -1,
+  "len_aa": 71
+ },
+ {
+  "gene": "OPG140",
+  "locus_tag": "NBT03_gp119",
+  "product": "IMV membrane protein A14",
+  "start": 121473,
+  "end": 121746,
+  "strand": -1,
+  "len_aa": 91
+ },
+ {
+  "gene": "OPG141",
+  "locus_tag": "NBT03_gp120",
+  "product": "DUF1029 domain protein",
+  "start": 121762,
+  "end": 121924,
+  "strand": -1,
+  "len_aa": 54
+ },
+ {
+  "gene": "OPG142",
+  "locus_tag": "NBT03_gp121",
+  "product": "Core protein A15",
+  "start": 121913,
+  "end": 122198,
+  "strand": -1,
+  "len_aa": 95
+ },
+ {
+  "gene": "OPG143",
+  "locus_tag": "NBT03_gp122",
+  "product": "Myristylated protein",
+  "start": 122181,
+  "end": 123315,
+  "strand": -1,
+  "len_aa": 378
+ },
+ {
+  "gene": "OPG144",
+  "locus_tag": "NBT03_gp123",
+  "product": "IMV membrane protein P21",
+  "start": 123317,
+  "end": 123932,
+  "strand": -1,
+  "len_aa": 205
+ },
+ {
+  "gene": "OPG145",
+  "locus_tag": "NBT03_gp124",
+  "product": "DNA helicase",
+  "start": 123946,
+  "end": 125425,
+  "strand": 1,
+  "len_aa": 493
+ },
+ {
+  "gene": "OPG146",
+  "locus_tag": "NBT03_gp125",
+  "product": "Zinc finger-like protein (1)",
+  "start": 125405,
+  "end": 125639,
+  "strand": -1,
+  "len_aa": 78
+ },
+ {
+  "gene": "OPG147",
+  "locus_tag": "NBT03_gp126",
+  "product": "IMV membrane protein A21",
+  "start": 125639,
+  "end": 125987,
+  "strand": -1,
+  "len_aa": 116
+ },
+ {
+  "gene": "OPG148",
+  "locus_tag": "NBT03_gp127",
+  "product": "DNA polymerase processivity factor",
+  "start": 125985,
+  "end": 127266,
+  "strand": 1,
+  "len_aa": 427
+ },
+ {
+  "gene": "OPG149",
+  "locus_tag": "NBT03_gp128",
+  "product": "Holliday junction resolvase",
+  "start": 127195,
+  "end": 127759,
+  "strand": 1,
+  "len_aa": 188
+ },
+ {
+  "gene": "OPG150",
+  "locus_tag": "NBT03_gp129",
+  "product": "Intermediate transcription factor VITF-3 (2)",
+  "start": 127778,
+  "end": 128927,
+  "strand": 1,
+  "len_aa": 383
+ },
+ {
+  "gene": "OPG151",
+  "locus_tag": "NBT03_gp130",
+  "product": "DNA-dependent RNA polymerase subunit rpo132",
+  "start": 128923,
+  "end": 132418,
+  "strand": 1,
+  "len_aa": 1165
+ },
+ {
+  "gene": "OPG153",
+  "locus_tag": "NBT03_gp131",
+  "product": "Orthopoxvirus A26L/A30L protein",
+  "start": 136137,
+  "end": 137667,
+  "strand": -1,
+  "len_aa": 510
+ },
+ {
+  "gene": "OPG154",
+  "locus_tag": "NBT03_gp132",
+  "product": "IMV surface fusion protein",
+  "start": 137717,
+  "end": 138050,
+  "strand": -1,
+  "len_aa": 111
+ },
+ {
+  "gene": "OPG155",
+  "locus_tag": "NBT03_gp133",
+  "product": "Envelope protein A28 homolog",
+  "start": 138050,
+  "end": 138491,
+  "strand": -1,
+  "len_aa": 147
+ },
+ {
+  "gene": "OPG156",
+  "locus_tag": "NBT03_gp134",
+  "product": "DNA-directed RNA polymerase 35 kDa subunit",
+  "start": 138491,
+  "end": 139409,
+  "strand": -1,
+  "len_aa": 306
+ },
+ {
+  "gene": "OPG157",
+  "locus_tag": "NBT03_gp135",
+  "product": "IMV membrane protein A30",
+  "start": 139371,
+  "end": 139608,
+  "strand": -1,
+  "len_aa": 79
+ },
+ {
+  "gene": "OPG158",
+  "locus_tag": "NBT03_gp136",
+  "product": "A32.5L",
+  "start": 139640,
+  "end": 139769,
+  "strand": -1,
+  "len_aa": 43
+ },
+ {
+  "gene": "OPG159",
+  "locus_tag": "NBT03_gp137",
+  "product": "CPXV166 protein",
+  "start": 139767,
+  "end": 140205,
+  "strand": 1,
+  "len_aa": 146
+ },
+ {
+  "gene": "OPG160",
+  "locus_tag": "NBT03_gp138",
+  "product": "ATPase A32",
+  "start": 140171,
+  "end": 141074,
+  "strand": -1,
+  "len_aa": 301
+ },
+ {
+  "gene": "OPG161",
+  "locus_tag": "NBT03_gp139",
+  "product": "EEV glycoprotein (1)",
+  "start": 141101,
+  "end": 141647,
+  "strand": 1,
+  "len_aa": 182
+ },
+ {
+  "gene": "OPG162",
+  "locus_tag": "NBT03_gp140",
+  "product": "EEV glycoprotein (2)",
+  "start": 141651,
+  "end": 142158,
+  "strand": 1,
+  "len_aa": 169
+ },
+ {
+  "gene": "OPG163",
+  "locus_tag": "NBT03_gp141",
+  "product": "MHC class II antigen presentation inhibitor",
+  "start": 142201,
+  "end": 142732,
+  "strand": 1,
+  "len_aa": 177
+ },
+ {
+  "gene": "OPG164",
+  "locus_tag": "NBT03_gp142",
+  "product": "IEV transmembrane phosphoprotein",
+  "start": 142777,
+  "end": 143464,
+  "strand": 1,
+  "len_aa": 229
+ },
+ {
+  "gene": "OPG165",
+  "locus_tag": "NBT03_gp143",
+  "product": "CPXV173 protein",
+  "start": 143515,
+  "end": 144322,
+  "strand": 1,
+  "len_aa": 269
+ },
+ {
+  "gene": "OPG166",
+  "locus_tag": "NBT03_gp144",
+  "product": "hypothetical protein",
+  "start": 144397,
+  "end": 144577,
+  "strand": 1,
+  "len_aa": 60
+ },
+ {
+  "gene": "OPG167",
+  "locus_tag": "NBT03_gp145",
+  "product": "CD47-like protein",
+  "start": 144573,
+  "end": 145407,
+  "strand": -1,
+  "len_aa": 278
+ },
+ {
+  "gene": "OPG170",
+  "locus_tag": "NBT03_gp146",
+  "product": "Chemokine binding protein",
+  "start": 146112,
+  "end": 146778,
+  "strand": -1,
+  "len_aa": 222
+ },
+ {
+  "gene": "OPG171",
+  "locus_tag": "NBT03_gp147",
+  "product": "Profilin domain protein",
+  "start": 146987,
+  "end": 147389,
+  "strand": 1,
+  "len_aa": 134
+ },
+ {
+  "gene": "OPG172",
+  "locus_tag": "NBT03_gp148",
+  "product": "Type-I membrane glycoprotein",
+  "start": 147426,
+  "end": 148017,
+  "strand": 1,
+  "len_aa": 197
+ },
+ {
+  "gene": "OPG173",
+  "locus_tag": "NBT03_gp149",
+  "product": "MPXVgp154",
+  "start": 148036,
+  "end": 148261,
+  "strand": 1,
+  "len_aa": 75
+ },
+ {
+  "gene": "OPG174",
+  "locus_tag": "NBT03_gp150",
+  "product": "Hydroxysteroid dehydrogenase",
+  "start": 148354,
+  "end": 149395,
+  "strand": -1,
+  "len_aa": 347
+ },
+ {
+  "gene": "OPG175",
+  "locus_tag": "NBT03_gp151",
+  "product": "Copper/zinc superoxide dismutase",
+  "start": 149441,
+  "end": 149819,
+  "strand": 1,
+  "len_aa": 126
+ },
+ {
+  "gene": "OPG176",
+  "locus_tag": "NBT03_gp152",
+  "product": "Bcl-2-like protein",
+  "start": 149808,
+  "end": 150531,
+  "strand": 1,
+  "len_aa": 241
+ },
+ {
+  "gene": "OPG178",
+  "locus_tag": "NBT03_gp153",
+  "product": "Thymidylate kinase",
+  "start": 151508,
+  "end": 152123,
+  "strand": 1,
+  "len_aa": 205
+ },
+ {
+  "gene": "OPG180",
+  "locus_tag": "NBT03_gp154",
+  "product": "DNA ligase (2)",
+  "start": 152691,
+  "end": 154371,
+  "strand": 1,
+  "len_aa": 560
+ },
+ {
+  "gene": "OPG181",
+  "locus_tag": "NBT03_gp155",
+  "product": "M137R",
+  "start": 154411,
+  "end": 155416,
+  "strand": 1,
+  "len_aa": 335
+ },
+ {
+  "gene": "OPG185",
+  "locus_tag": "NBT03_gp156",
+  "product": "Hemagglutinin",
+  "start": 158916,
+  "end": 159858,
+  "strand": 1,
+  "len_aa": 314
+ },
+ {
+  "gene": "OPG187",
+  "locus_tag": "NBT03_gp157",
+  "product": "Ser/thr kinase",
+  "start": 160621,
+  "end": 161533,
+  "strand": 1,
+  "len_aa": 304
+ },
+ {
+  "gene": "OPG188",
+  "locus_tag": "NBT03_gp158",
+  "product": "Schlafen (1)",
+  "start": 161595,
+  "end": 163107,
+  "strand": 1,
+  "len_aa": 504
+ },
+ {
+  "gene": "OPG189",
+  "locus_tag": "NBT03_gp159",
+  "product": "Ankyrin repeat protein (25)",
+  "start": 163332,
+  "end": 165018,
+  "strand": 1,
+  "len_aa": 562
+ },
+ {
+  "gene": "OPG190",
+  "locus_tag": "NBT03_gp160",
+  "product": "EEV type-I membrane glycoprotein",
+  "start": 165121,
+  "end": 166075,
+  "strand": 1,
+  "len_aa": 318
+ },
+ {
+  "gene": "OPG191",
+  "locus_tag": "NBT03_gp161",
+  "product": "Ankyrin-like protein (46)",
+  "start": 166160,
+  "end": 166667,
+  "strand": 1,
+  "len_aa": 169
+ },
+ {
+  "gene": "OPG192",
+  "locus_tag": "NBT03_gp162",
+  "product": "Virulence protein",
+  "start": 166730,
+  "end": 167279,
+  "strand": 1,
+  "len_aa": 183
+ },
+ {
+  "gene": "OPG193",
+  "locus_tag": "NBT03_gp163",
+  "product": "Soluble interferon-gamma receptor-like protein",
+  "start": 167333,
+  "end": 168137,
+  "strand": 1,
+  "len_aa": 268
+ },
+ {
+  "gene": "OPG195",
+  "locus_tag": "NBT03_gp164",
+  "product": "Intracellular viral protein",
+  "start": 168229,
+  "end": 168895,
+  "strand": 1,
+  "len_aa": 222
+ },
+ {
+  "gene": "OPG197",
+  "locus_tag": "NBT03_gp165",
+  "product": "CPXV205 protein",
+  "start": 169669,
+  "end": 169972,
+  "strand": 1,
+  "len_aa": 101
+ },
+ {
+  "gene": "OPG198",
+  "locus_tag": "NBT03_gp166",
+  "product": "Ser/thr kinase",
+  "start": 170037,
+  "end": 170886,
+  "strand": 1,
+  "len_aa": 283
+ },
+ {
+  "gene": "OPG199",
+  "locus_tag": "NBT03_gp167",
+  "product": "Serpin",
+  "start": 170987,
+  "end": 172022,
+  "strand": 1,
+  "len_aa": 345
+ },
+ {
+  "gene": "OPG200",
+  "locus_tag": "NBT03_gp168",
+  "product": "Bcl-2-like protein",
+  "start": 172149,
+  "end": 172599,
+  "strand": 1,
+  "len_aa": 150
+ },
+ {
+  "gene": "OPG204",
+  "locus_tag": "NBT03_gp169",
+  "product": "IFN-alpha/beta-receptor-like secreted glycoprotein",
+  "start": 174531,
+  "end": 175587,
+  "strand": 1,
+  "len_aa": 352
+ },
+ {
+  "gene": "OPG205",
+  "locus_tag": "NBT03_gp170",
+  "product": "Ankyrin repeat protein (44)",
+  "start": 175655,
+  "end": 178019,
+  "strand": 1,
+  "len_aa": 788
+ },
+ {
+  "gene": "OPG208",
+  "locus_tag": "NBT03_gp171",
+  "product": "Serpin",
+  "start": 179265,
+  "end": 180339,
+  "strand": 1,
+  "len_aa": 358
+ },
+ {
+  "gene": "OPG209",
+  "locus_tag": "NBT03_gp172",
+  "product": "Virulence protein",
+  "start": 180517,
+  "end": 181090,
+  "strand": 1,
+  "len_aa": 191
+ },
+ {
+  "gene": "OPG210",
+  "locus_tag": "NBT03_gp173",
+  "product": "B22R family protein",
+  "start": 181355,
+  "end": 186998,
+  "strand": 1,
+  "len_aa": 1881
+ },
+ {
+  "gene": "OPG005",
+  "locus_tag": "NBT03_gp174",
+  "product": "Bcl-2-like protein",
+  "start": 189198,
+  "end": 189660,
+  "strand": 1,
+  "len_aa": 154
+ },
+ {
+  "gene": "OPG016",
+  "locus_tag": "NBT03_gp175",
+  "product": "Brix domain protein",
+  "start": 190409,
+  "end": 190940,
+  "strand": 1,
+  "len_aa": 177
+ },
+ {
+  "gene": "OPG015",
+  "locus_tag": "NBT03_gp176",
+  "product": "Ankyrin repeat protein (39)",
+  "start": 191053,
+  "end": 192367,
+  "strand": 1,
+  "len_aa": 438
+ },
+ {
+  "gene": "OPG003",
+  "locus_tag": "NBT03_gp177",
+  "product": "Ankyrin repeat protein (25)",
+  "start": 192602,
+  "end": 194369,
+  "strand": 1,
+  "len_aa": 589
+ },
+ {
+  "gene": "OPG002",
+  "locus_tag": "NBT03_gp178",
+  "product": "Crm-B secreted TNF-alpha-receptor-like protein",
+  "start": 194458,
+  "end": 195508,
+  "strand": 1,
+  "len_aa": 350
+ },
+ {
+  "gene": "OPG001",
+  "locus_tag": "NBT03_gp179",
+  "product": "Chemokine binding protein",
+  "start": 195634,
+  "end": 196375,
+  "strand": 1,
+  "len_aa": 247
+ }
+]
